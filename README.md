@@ -1,4 +1,4 @@
-# Avrio Web miner!
+# Redstone Web miner!
 This web miner was forked, and the UI was changed, from https://github.com/PiTi2k5/Crypto-Webminer their donation details are down below. 
 <br><br> 
 We take a 1% developer fee<br><br> <br><br> 
